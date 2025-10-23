@@ -22,7 +22,7 @@
 <img width="978" height="540" alt="image" src="https://github.com/user-attachments/assets/c86e4ea9-2e18-4abc-a2f6-9e45acd29acd" />  
 
 
-2.2. Cài đặt nodejs và nodered 
+2. Cài đặt nodejs và nodered 
 a, Cài đặt nodejs 
 download file  nodejs 
 <img width="631" height="39" alt="image" src="https://github.com/user-attachments/assets/b48b26ca-12d3-4627-8f28-b9bc1131e830" />  
@@ -49,6 +49,13 @@ Cài service cho Node-RED
 <img width="921" height="249" alt="image" src="https://github.com/user-attachments/assets/8572ad76-d3b5-432e-bb92-f079a85830a4" />
 Node-RED đã chạy thành công hoàn toàn tại địa chỉ http://localhost:1880
 <img width="1873" height="1041" alt="image" src="https://github.com/user-attachments/assets/1b739fcc-01d4-47e8-b9f2-734b30b377cd" />
+
+3. Tạo csdl tuỳ ý trên mssql (sql server 2022)
+<img width="1464" height="935" alt="image" src="https://github.com/user-attachments/assets/03233fd2-1d68-4153-af92-4429752eabb7" />
+
+
+
+
 
 
 
