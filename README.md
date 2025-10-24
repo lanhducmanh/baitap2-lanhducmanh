@@ -53,6 +53,24 @@ Node-RED đã chạy thành công hoàn toàn tại địa chỉ http://localhos
 3. Tạo csdl tuỳ ý trên mssql (sql server 2022)
 <img width="1464" height="935" alt="image" src="https://github.com/user-attachments/assets/03233fd2-1d68-4153-af92-4429752eabb7" />
 
+4. Cài đặt thư viện trên nodered
+   truy cập giao diện nodered bằng url: http://localhost:1880
+   <img width="1871" height="1026" alt="image" src="https://github.com/user-attachments/assets/0cc61ecf-f8d0-4c9a-b971-4f739b61448d" />
+   cài đặt các thư viện: node-red-contrib-mssql-plus, node-red-node-mysql, node-red-contrib-telegrambot, node-red-contrib-moment, node-red-contrib-influxdb, node-red-contrib-duckdns, node-red-contrib-cron-plus
+   <img width="1774" height="992" alt="image" src="https://github.com/user-attachments/assets/00f8367e-e8e3-4ce3-a776-3ac6f792842d" />
+   Sửa file `D:\nodejs\nodered\work\settings.js` :
+   <img width="927" height="890" alt="image" src="https://github.com/user-attachments/assets/872b97a0-dc4b-464a-a7ff-7cbd27361487" />
+    thiết lập mat khau bằng tool: https://tms.tnut.edu.vn/pw.php
+   <img width="743" height="366" alt="image" src="https://github.com/user-attachments/assets/ec05cdd5-3b05-45d9-aa1f-7f4ae281ddcb" />
+   <img width="751" height="241" alt="image" src="https://github.com/user-attachments/assets/d3da9465-232e-4a46-95a3-e5b65e4ab565" />
+   khởi động lại nodered
+   <img width="646" height="383" alt="image" src="https://github.com/user-attachments/assets/7752393a-4b8f-4fe6-a570-82e4886979ac" />
+   vào nodered
+   <img width="1465" height="863" alt="image" src="https://github.com/user-attachments/assets/9e0c4975-c652-4659-baff-a2476573515b" />
+   <img width="1865" height="928" alt="image" src="https://github.com/user-attachments/assets/7cf2bea7-ff1a-4490-8c6a-31aa78c4fa52" />
+
+
+
 
 
 
