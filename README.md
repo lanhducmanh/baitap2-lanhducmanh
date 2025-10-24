@@ -69,6 +69,18 @@ Node-RED đã chạy thành công hoàn toàn tại địa chỉ http://localhos
    <img width="1465" height="863" alt="image" src="https://github.com/user-attachments/assets/9e0c4975-c652-4659-baff-a2476573515b" />
    <img width="1865" height="928" alt="image" src="https://github.com/user-attachments/assets/7cf2bea7-ff1a-4490-8c6a-31aa78c4fa52" />
 
+5. tạo api back-end bằng nodered:
+   tại flow1 trên nodered, sử dụng node `http in` và `http response` để tạo api
+   <img width="555" height="232" alt="image" src="https://github.com/user-attachments/assets/1c132b3d-b459-40df-98ba-f978cd0e2793" />
+   thêm node `MSSQL` để truy vấn tới cơ sở dữ liệu
+   <img width="1588" height="810" alt="image" src="https://github.com/user-attachments/assets/2b49a16a-1a55-4430-98a5-2ded4c09616e" />
+   logic flow sẽ gồm 4 node theo thứ tự sau (thứ tự nối dây)
+   <img width="1570" height="856" alt="image" src="https://github.com/user-attachments/assets/b79199de-5c29-42b5-86cf-12a173e199d3" />
+   <img width="1554" height="871" alt="image" src="https://github.com/user-attachments/assets/dcaabf2b-f5c7-4ab0-975c-4c8a59db93e7" /> 
+   test api thông qua trình duyệt, ví dụ: http://localhost:1880/timkiem?q=thị
+   
+ 
+   
 
 
 
