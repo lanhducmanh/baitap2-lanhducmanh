@@ -85,6 +85,20 @@ Node-RED đã chạy thành công hoàn toàn tại địa chỉ http://localhos
   <img width="1036" height="732" alt="image" src="https://github.com/user-attachments/assets/3021f357-8ea7-4e27-9806-6066d0e6b3a0" /> 
 
 
+6. Tạo giao diện front-end:
+   tạo 3 file này đặt trong thư mục: `D:\Apache24\fullname`
+<img width="742" height="238" alt="image" src="https://github.com/user-attachments/assets/a5b511e3-dfed-42bd-9c22-a0d79844f07b" />
+
+chạy kết quả và thử test 
+<img width="1497" height="851" alt="image" src="https://github.com/user-attachments/assets/cbfd5c48-156c-4575-a21f-df6eb122c9e2" /> 
+
+7. Nhận xét bài làm của mình
+Em đã hiểu rõ cách cài đặt các phần mềm và thư viện cần thiết. Apache được cấu hình thành công để chạy website cá nhân với domain lanhducmanh.com, NodeJS và Node-RED được cài đặt thủ công bằng nssm để chạy ổn định như một dịch vụ. Em đã cài đủ các thư viện như mssql-plus, moment, cron-plus, hiểu cách chúng giúp Node-RED kết nối và xử lý dữ liệu trong cơ sở dữ liệu.
+Em đã tạo được API back-end trong Node-RED gồm 4 node: http in → function → MSSQL → http response. API hoạt động tốt, nhận tham số tìm kiếm và trả dữ liệu JSON từ CSDL. Qua đó, em hiểu cách Node-RED xử lý luồng dữ liệu mà không cần viết code phức tạp.
+Phần front-end gồm 3 file index.html, lanhducmanh.css, lanhducmanh.js được đặt trong thư mục D:\Apache24\lanhducmanh. Giao diện có form nhập, gửi yêu cầu đến API và hiển thị kết quả trả về. Em hiểu rõ cách front-end tương tác với back-end thông qua request và response.
+
+
+
  
 
 
