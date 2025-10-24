@@ -10,17 +10,16 @@
    cấu hình các file
    <img width="657" height="467" alt="image" src="https://github.com/user-attachments/assets/4eafafef-fdfa-4fa8-9fa5-2b89cbcb97c3" />
   <img width="581" height="84" alt="image" src="https://github.com/user-attachments/assets/bb04f796-0a1b-4950-a5f8-520564335a23" /> 
-  <img width="831" height="454" alt="image" src="https://github.com/user-attachments/assets/fbe8ed85-03b7-42c1-9123-7d51d31492d5" />
 
   
   fake ip 127.0.0.1 cho domain này 
-  <img width="1047" height="798" alt="image" src="https://github.com/user-attachments/assets/94e792a7-eafc-4dba-825f-91f48409b8e7" /> 
-  <img width="723" height="402" alt="image" src="https://github.com/user-attachments/assets/f167ada8-9906-454c-8469-b16e7b95fa95" /> 
+
+<img width="638" height="608" alt="image" src="https://github.com/user-attachments/assets/2919fda4-f0db-4477-8430-2ea393febecb" />
 
 để tạo website với domain và đặt code 
- <img width="1258" height="620" alt="image" src="https://github.com/user-attachments/assets/edbe10c6-e74d-4cdd-b290-a0b6e0f36b15" /> 
-<img width="978" height="540" alt="image" src="https://github.com/user-attachments/assets/c86e4ea9-2e18-4abc-a2f6-9e45acd29acd" />  
-
+<img width="423" height="193" alt="image" src="https://github.com/user-attachments/assets/e7c35052-ae73-4ba4-ac1f-1c981fb59307" />
+<img width="804" height="355" alt="image" src="https://github.com/user-attachments/assets/2148366f-fde6-4a8a-8912-34803b34c340" />
+<img width="619" height="365" alt="image" src="https://github.com/user-attachments/assets/417365a1-7f24-4c26-9b05-b54377ebc262" /> 
 
 2. Cài đặt nodejs và nodered 
 a, Cài đặt nodejs 
